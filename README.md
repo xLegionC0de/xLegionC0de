@@ -5,12 +5,12 @@
 
 - ✨ I like write code
 - 🎨 I love to paint
+- 🛠 KorsarNetwork developer
+- 💜 InteliJ IDEA
 
 ### Programming languages
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=E6826C)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Intelka](https://img.shields.io/badge/-InteliJ-090909?style=for-the-badge&logo=intelij)
-
 
 ### Follow Me
 
