@@ -3,8 +3,8 @@
 
 ### I'm a beginner Software Engineer
 
--- ✨ I like write code
--- 🎨 I love to paint
+- ✨ I like write code
+- 🎨 I love to paint
 
 ### Programming languages
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=E6826C)
