@@ -1,4 +1,6 @@
 
+![Header](https://github.com/xLegionC0de/xLegionC0de/blob/main/giphy.gif?raw=true)
+
 ### I'm a beginner Software Engineer
 
 ### Programming languages
